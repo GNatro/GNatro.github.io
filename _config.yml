@@ -25,7 +25,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "George"
+  name: "George Natroshvili"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "DevOps enthusiast. Sharing my journey and the lessons learned along the way."
   links:
